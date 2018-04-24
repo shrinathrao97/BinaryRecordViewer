@@ -16,7 +16,7 @@ LDLIBS = -lcdk -lcurses
 
 EXECFILE = homework6 
 
-OBJS =  main.o 
+OBJS = Func.o  main.o 
 
 
 all: $(EXECFILE)
