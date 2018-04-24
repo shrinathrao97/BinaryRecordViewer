@@ -1,3 +1,9 @@
+/*
+ *Shrinath Rao
+ *CS 3377.002
+ *srr150130@utdallas.edu
+ *
+ * */
 #include <iostream>
 #include <fstream>
 #include <stdint.h>

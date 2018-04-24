@@ -1,8 +1,7 @@
-#
-# UTD CS3377 CDK Example
-# Dr. Perkins
-# stephen.perkins@utdallas.edu
-#
+#Shrinath Rao
+# srr150130@utdallas.edu
+# CS 3377.002
+
 
 CXX = g++
 CXXFLAGS = -Wall -g 
