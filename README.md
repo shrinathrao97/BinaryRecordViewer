@@ -1,4 +1,4 @@
-# RaoHomework6
+# Binary Record Viewer
 ## Please issue:
 - $ make
 - $ ./homework6
